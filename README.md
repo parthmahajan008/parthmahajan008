@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/parth_809" target="blank"><img src="https://img.shields.io/twitter/follow/parth_809?logo=twitter&style=for-the-badge" alt="parth_809" /></a> </p>
 
-- 🔭 I’m currently working on [Grads-Club](https://github.com/ritviknagpal48/GradClubs---Yehlo)
+<!-- - 🔭 I’m currently working on [Grads-Club](https://github.com/ritviknagpal48/GradClubs---Yehlo) -->
 
-- 🌱 I’m currently learning **Flutter Backend, Front End Web Development, and DSA**
+- 🌱 I’m currently Well versed  **Flutter, MongoDb,Nodejs,Express, and applied DSA in C++**
 
-- 👯 I’m looking to collaborate on [Material Design : Chat App](https://github.com/zenghost1/Chatapp.git)
+<!-- - 👯 I’m looking to collaborate on [Material Design : Chat App](https://github.com/zenghost1/Chatapp.git) -->
 
 - 👨‍💻 All of my projects are available at [github.com/parthmahajan008](github.com/parthmahajan008)
 
