@@ -5,20 +5,20 @@
 
 <!-- - 🔭 I’m currently working on [Grads-Club](https://github.com/ritviknagpal48/GradClubs---Yehlo) -->
 
-- 🌱 I’m currently Well versed  **Flutter, MongoDb,Nodejs,Express, and applied DSA in C++**
+- 🌱 I’m a **Full Stack developer**
 
 <!-- - 👯 I’m looking to collaborate on [Material Design : Chat App](https://github.com/zenghost1/Chatapp.git) -->
 
 - 👨‍💻 All of my projects are available at [github.com/parthmahajan008](github.com/parthmahajan008)
 
-- 📫 How to reach me **parthmahajan08092003@gmail.com**
+- 📫 How to reach me **parth.wrk.mahajan@gmail.com**
 
 - ⚡ Fun fact **I think I am the Best :')**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parth_809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth_809" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parth-mahajan-0801b3223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-mahajan-0801b3223/" height="30" width="40" /></a>
+<a href="https://twitter.com/parthmahajan_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth_809" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parthmahajan08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-mahajan-0801b3223/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
