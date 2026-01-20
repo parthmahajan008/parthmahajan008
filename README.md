@@ -9,7 +9,7 @@
 
 ## About Me
 
-Recent CS graduate from NSIT Delhi (May 2025) and former Co-founder & CTO at **FlowbeeAI** (YC-style pre-seed funded), where I built AI-powered LinkedIn content creation tools serving founders and CXOs at scale.
+2025 CS graduate from NSIT Delhi (May 2025) and former Co-founder & CTO at **FlowbeeAI** (YC-style pre-seed funded), where I built AI-powered LinkedIn content creation tools serving founders and CXOs at scale.
 
 - 🔭 Built production AI systems with **97% uptime** and **sub-500ms response times**
 - 🧠 Specialized in **multi-agent orchestration**, **memory architectures**, and **distributed AI systems**
